@@ -43,7 +43,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_0_0">
+      <widget class="QPushButton" name="button_0_0">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -59,9 +59,6 @@
        </property>
        <property name="text">
         <string>O</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -79,7 +76,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_0_1">
+      <widget class="QPushButton" name="button_0_1">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -95,9 +92,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -115,7 +109,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_0_2">
+      <widget class="QPushButton" name="button_0_2">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -131,9 +125,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -181,7 +172,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_1_0">
+      <widget class="QPushButton" name="button_1_0">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -197,9 +188,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -217,7 +205,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_1_1">
+      <widget class="QPushButton" name="button_1_1">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -233,9 +221,6 @@
        </property>
        <property name="text">
         <string>O</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -253,7 +238,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_1_2">
+      <widget class="QPushButton" name="button_1_2">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -269,9 +254,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -319,7 +301,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_2_0">
+      <widget class="QPushButton" name="button_2_0">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -335,9 +317,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -355,7 +334,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_2_1">
+      <widget class="QPushButton" name="button_2_1">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -371,9 +350,6 @@
        </property>
        <property name="text">
         <string>X</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
@@ -391,7 +367,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QLabel" name="label_2_2">
+      <widget class="QPushButton" name="button_2_2">
        <property name="minimumSize">
         <size>
          <width>100</width>
@@ -407,9 +383,6 @@
        </property>
        <property name="text">
         <string>O</string>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
