@@ -73,6 +73,7 @@ QML properties created in Qt Design Studio are bound to C++ data models:
 ```qml
 // Designer-created UI component with developer-added data binding
 Light {
+    property string lightId: "living_room_main"
     isOn: homeModel.livingRoomLights.state
     brightness: homeModel.livingRoomLights.brightness
     onToggled: homeController.setLightState(lightId, isOn)
